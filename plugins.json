@@ -8,5 +8,5 @@
     "name": "WorseMeower Theme",
     "description": "Worsen your theme significantly",
     "script": "worsetheme.js"
-  },
+  }
 ]
