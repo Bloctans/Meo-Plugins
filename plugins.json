@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Unexpected End",
+    "description": "unexpected end of JSON input",
+    "script": "unexpectedend.js"
+  },
+  {
+    "name": "WorseMeower Theme",
+    "description": "Worsen your theme significantly",
+    "script": "worsetheme.js"
+  },
+]
